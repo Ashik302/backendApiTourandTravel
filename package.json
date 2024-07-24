@@ -8,7 +8,8 @@
     "node": "18.x"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "vercel-build": "echo hello world"
   },
   "author": "",
   "license": "ISC",
